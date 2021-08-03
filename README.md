@@ -7,11 +7,11 @@
 - 🎓 Formado em Ciência da computação e decidindo qual pós graduação realizar
 - 😄 Pronomes: ele/dele
 
-<div>
-  <a href="https://github.com/TheSamhain">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TheSamhain&theme=react&show_icons=true&include_all_commits=true&count_private=true&locale=pt-BR"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamhain&theme=react&layout=compact&langs_count=10&locale=pt-BR"/>
-</div>
+<a href="https://github.com/TheSamhain">
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSamhain&theme=react&show_icons=true&include_all_commits=true&count_private=true&locale=pt-BR" />
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamhain&theme=react&layout=compact&langs_count=10&locale=pt-BR" />
+</a> 
+
 
   
 <div style="display: inline_block"><br>

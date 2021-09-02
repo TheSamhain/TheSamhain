@@ -22,6 +22,7 @@
 <div style="display: inline_block"><br>
   <img align="center" height="40" alt="Leo-Js"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" alt="Leo-React"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="40" alt="Leo-Redux"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">    
   <img align="center" height="40" alt="Leo-Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" height="40" alt="Leo-HTML"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" alt="Leo-CSS"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

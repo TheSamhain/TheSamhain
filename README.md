@@ -7,19 +7,21 @@
 - 🎓 Formado em Ciência da computação e decidindo qual pós graduação realizar
 - 😄 Pronomes: ele/dele
 
+<div style="display: inline_block">
 <a href="https://github.com/TheSamhain">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSamhain&theme=react&show_icons=true&include_all_commits=true&count_private=true&locale=pt-BR" />
+    <img height="230px" src="https://github-readme-stats.vercel.app/api?username=TheSamhain&theme=react&show_icons=true&include_all_commits=true&count_private=true&locale=pt-BR" />
 </a> 
 
 <a href="https://github.com/TheSamhain?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamhain&theme=react&layout=compact&langs_count=10&locale=pt-BR" />
+    <img height="230px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamhain&theme=react&layout=compact&langs_count=10&locale=pt-BR" />
 </a>
+</div>
 
 <br />
 
 ## Habilidades 🖥️
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" height="40" alt="Leo-Js"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" alt="Leo-React"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="40" alt="Leo-Redux"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">    

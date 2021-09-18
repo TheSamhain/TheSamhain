@@ -1,7 +1,8 @@
 ## Olá! Sou o Leonardo Noro 👋
 
 - 🔭 Trabalhando no momento como Engenheiro de Software
-- 🌱 Aprendendo React, React Native e Unity
+- 🌱 Aprendendo Redux e Unity
+- 📜 Aperfeiçoando conhecimento em React e react Native
 - 🤔 Pretendo aprender TypeScript
 - 🎮 Hobby: Desenvolver jogos
 - 🎓 Formado em Ciência da computação e decidindo qual pós graduação realizar

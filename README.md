@@ -1,11 +1,10 @@
 ## Olá! Sou o Leonardo Noro 👋
 
 - 🔭 Trabalhando no momento como Engenheiro de Software
-- 🌱 Aprendendo Redux e Unity
-- 📜 Aperfeiçoando conhecimento em React e react Native
-- 🤔 Pretendo aprender TypeScript
-- 🎮 Hobby: Desenvolver jogos
-- 🎓 Formado em Ciência da computação e decidindo qual pós graduação realizar
+- 🌱 Aprendendo Redux e TypeScript
+- 📜 Aperfeiçoando conhecimento em React e React Native
+- 🤔 Pretendo aprender Inglês fluente (aceito indicação de cursos 😉)
+- 🎓 Formado em Ciência da Computação e decidindo qual pós-graduação realizar
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block">

@@ -13,7 +13,7 @@
 </a> 
 
 <a href="https://github.com/TheSamhain?tab=repositories">
-    <img height="230px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamhain&theme=react&layout=compact&langs_count=10&locale=pt-BR" />
+    <img height="230px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamhain&theme=react&layout=compact&langs_count=8&locale=pt-BR" />
 </a>
 </div>
 

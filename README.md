@@ -37,6 +37,7 @@
   <img align="center" height="40" alt="Leo-Firebase"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">   
   <img align="center" height="40" alt="Leo-Mysql"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"> 
   <img align="center" height="40" alt="Leo-Linux"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  
+  <img align="center" height="40" alt="Leo-Windows"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">  
 </div>
     
 <br />

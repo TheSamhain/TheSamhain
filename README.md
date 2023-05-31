@@ -13,7 +13,7 @@
 </a> 
 
 <a href="https://github.com/TheSamhain?tab=repositories">
-    <img height="230px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamhain&theme=react&layout=compact&langs_count=8&locale=pt-BR&hide=c,c%2B%2B,matlab,c%23,shell,Java,ShaderLab" />
+    <img height="230px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamhain&theme=react&layout=compact&langs_count=8&locale=pt-BR&exclude_repo=Curso-Udemy-Plataforma,Curso-Udemy-Arkanoid&hide=c,c%2B%2B,shell,Java,matlab" />
 </a>
 </div>
 

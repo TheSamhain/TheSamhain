@@ -7,9 +7,9 @@
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block">
-<a href="https://github.com/TheSamhain">
+<!-- <a href="https://github.com/TheSamhain">
     <img height="230px" src="https://github-readme-stats.vercel.app/api?username=TheSamhain&theme=react&show_icons=true&locale=pt-BR&count_private=true" />
-</a> 
+</a>  -->
 
 <a href="https://github.com/TheSamhain?tab=repositories">
     <img height="230px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamhain&theme=react&layout=compact&langs_count=8&locale=pt-BR&exclude_repo=Curso-Udemy-Plataforma,Curso-Udemy-Arkanoid&hide=c,c%2B%2B,shell,Java,matlab" />

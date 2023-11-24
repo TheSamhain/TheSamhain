@@ -1,10 +1,9 @@
 ## Olá! Sou o Leonardo Noro 👋
 
-- 🔭 Trabalhando no momento como Desenvolvedor Mobile
-<!-- - 🌱 Aprendendo Redux e TypeScript -->
-- 📜 Aperfeiçoando conhecimento em React e React Native
-- 🤔 Pretendo aprender Inglês fluente (aceito indicação de cursos 😉)
-- 🎓 Formado em Ciência da Computação e decidindo qual pós-graduação realizar
+- 🔭 Atuo no momento como Desenvolvedor Mobile 📱 e Web 🌐
+- 📜 Gosto de desenvolver aplicativos inovadores, testar novas tecnologias, criar sites futuristas e animados 
+- 🤔 Estpu treinando para falar Inglês fluente 
+- 🎓 Sou formado em Ciência da Computação e já concluí vários cursos de desenvolvimento na Rocketseat, Udemy e outras plataformas
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block">

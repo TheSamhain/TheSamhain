@@ -8,7 +8,7 @@
 
 <div style="display: inline_block">
 <a href="https://github.com/TheSamhain">
-    <img height="230px" src="https://github-readme-stats.vercel.app/api?username=TheSamhain&theme=react&show_icons=true&locale=pt-BR&count_private=true&include_all_commits=true" />
+    <img height="230px" src="https://github-readme-stats.vercel.app/api?username=TheSamhain&theme=react&show_icons=true&locale=pt-BR&count_private=true" />
 </a> 
 
 <a href="https://github.com/TheSamhain?tab=repositories">
